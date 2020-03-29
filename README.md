@@ -1,4 +1,4 @@
-# COVID-19 CollaborativeTracker
+# PRODUCT NAME
 
 ### Collaborative tool to map COVID-19's transmission on public routes.
 
